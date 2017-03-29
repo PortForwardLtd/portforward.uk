@@ -1,0 +1,15 @@
+/public_html/config
+/public_html/vendor
+/public_html/composer.phar
+/public_html/bootstrap/compiled.php
+/public_html/.DS_Store
+/public_html/.idea
+/public_html/php-errors.log
+/public_html/selenium.php
+/public_html/nginx-error.log
+/public_html/nginx-ssl.access.log
+/public_html/nginx-access.log
+/public_html/nginx-seel.error.log
+/public_html/php-errors.log
+/public_html/sftp.config.json
+/public_html/composer.lock
